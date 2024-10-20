@@ -18,16 +18,5 @@ You can click the Preview link to take a look at your changes.
 <p style=" color: 'white'">
   78 Repository
 </p>
-
-<div class="repo-card">
-  <h2 class="repo-title">Your Repository Name</h2>
-  <p class="repo-description">A brief description of what your repository does.</p>
-  <div class="repo-info">
-    <span class="repo-language">Language: JavaScript</span>
-    <span class="repo-stars">⭐ 100</span>
-  </div>
-  <a href="https://github.com/yourusername/your-repo" class="repo-link">View on GitHub</a>
-</div>
-
   
 </div>
