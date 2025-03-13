@@ -50,16 +50,13 @@
 </div>
 
 <h1 align="center">📊 GitHub Stats </h1>
-
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sadafshahab12&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
 </div>
 
 
-</div>
-##  
 <h1 align="center">🔥 Top Contributed Repos  </h1>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
