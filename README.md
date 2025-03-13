@@ -53,10 +53,9 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-  <a href="https://github.com/sadafshahab12">
-    <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=tokyonight&border_radius=10" alt="Sadaf Shahab's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true" alt="Sadaf Shahab's GitHub Stats" />
 </div>
+
 
 
 <h1 align="center">🔥 Top Contributed Repos</h1>
