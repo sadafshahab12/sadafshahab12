@@ -59,7 +59,22 @@
 ##  
 <h1 align="center">🔥 Top Contributed Repos  </h1>
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sadafshahab12&limit=5&theme=tokyonight" alt="Top Repos" />
+  
+  <!-- Repo 1 -->
+  <a href="https://github.com/sadafshahab12/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=REPO_NAME_1&theme=tokyonight&border_radius=10" alt="Repo 1"/>
+  </a>
+  
+  <!-- Repo 2 -->
+  <a href="https://github.com/sadafshahab12/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=REPO_NAME_2&theme=tokyonight&border_radius=10" alt="Repo 2"/>
+  </a>
+  
+  <!-- Repo 3 -->
+  <a href="https://github.com/sadafshahab12/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=REPO_NAME_3&theme=tokyonight&border_radius=10" alt="Repo 3"/>
+  </a>
+  
 </div>
 
 
