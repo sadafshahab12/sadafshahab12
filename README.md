@@ -50,21 +50,11 @@
 </div>
 
 <h1 align="center">📊 GitHub Stats </h1>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafshahab12&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafshahab12&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
 </div>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sadafshahab12&limit=5&theme=rose&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sadafshahab12&icon=8&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
