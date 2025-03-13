@@ -21,9 +21,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306575.jpg" width="600" height="300"/>
+  <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306575.jpg" width="600" height="400"/>
 </div>
-# 💫 About Me:
+<h1 align="center">👋 About Me</h1>
+
 <h2 align="center">🚀 Frontend Developer | React.js | Next.js | Tailwind CSS</h2>
 
 <p align="center">
@@ -36,7 +37,7 @@
 </p>
 
 
-# 💻 Tech Stack:
+<h1 align="center">💻 Tech Stack & Languages</h1>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-line-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,10 +49,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sanity/sanity-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sadafshahab12&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadafshahab12&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafshahab12&theme=radical" alt="GitHub Streak" width="48%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
