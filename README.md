@@ -53,7 +53,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafshahab12&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sadafshahab12&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
+
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
 </div>
