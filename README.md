@@ -65,3 +65,17 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </div>
+<div align="center">
+  <h3>💡 Random Quote Generator</h3>
+  <blockquote id="quote">Loading...</blockquote>
+  
+  <script>
+    async function fetchQuote() {
+      const response = await fetch("https://api.quotable.io/random");
+      const data = await response.json();
+      document.getElementById("quote").innerText = `"${data.content}" — ${data.author}`;
+    }
+    fetchQuote();
+  </script>
+</div>
+
