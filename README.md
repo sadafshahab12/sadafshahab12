@@ -53,8 +53,11 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sadafshahab12" alt="GitHub Streak" /></a>
+  <a href="https://github.com/sadafshahab12">
+    <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=tokyonight&border_radius=10" alt="Sadaf Shahab's GitHub Stats" />
+  </a>
 </div>
+
 
 <h1 align="center">🔥 Top Contributed Repos</h1>
 
