@@ -61,20 +61,23 @@
 <div align="center">
   
   <!-- Repo 1 -->
-  <a href="https://github.com/sadafshahab12/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=REPO_NAME_1&theme=tokyonight&border_radius=10" alt="Repo 1"/>
+  <a href="https://github.com/sadafshahab12/My-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=My-Portfolio&theme=tokyonight&border_radius=10" alt="My-Portfolio"/>
   </a>
   
   <!-- Repo 2 -->
-  <a href="https://github.com/sadafshahab12/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=REPO_NAME_2&theme=tokyonight&border_radius=10" alt="Repo 2"/>
+  <a href="https://github.com/sadafshahab12/Internship-Pakistan---Task-5---Shoose-Website
+">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=Internship-Pakistan---Task-5---Shoose-Website&theme=tokyonight&border_radius=10" alt="shoose"/>
   </a>
   
   <!-- Repo 3 -->
-  <a href="https://github.com/sadafshahab12/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=REPO_NAME_3&theme=tokyonight&border_radius=10" alt="Repo 3"/>
+  <a href="https://github.com/sadafshahab12/UIUX-Hackathon-2---Nextjs-Design-Jam-2024">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadafshahab12&repo=UIUX-Hackathon-2---Nextjs-Design-Jam-2024&theme=tokyonight&border_radius=10" alt="Furniro website"/>
   </a>
   
 </div>
-
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sadafshahab12&limit=5&theme=tokyonight" alt="Top Repos" />
+</div>
 
