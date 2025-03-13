@@ -38,7 +38,7 @@
 
 
 <h1 align="center">💻 Tech Stack & Languages</h1>
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-line-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
@@ -49,8 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sanity/sanity-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-## 📊 GitHub Stats  
-
+<h1 align="center">📊 GitHub Stats </h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafshahab12&theme=radical" alt="GitHub Streak" width="48%" />
