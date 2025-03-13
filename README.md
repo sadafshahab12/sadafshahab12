@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 💫 About Me:
 I'm a passionate Front-end Developer with a strong foundation in Next.js, React.js, and Tailwind CSS. With a background in Bachelor of Commerce and a deep interest in technology, I combine my analytical mindset with creativity to build intuitive and dynamic web applications.<br><br>🔧 Tech Stack & Skills:<br><br>Frontend: Next.js, React.js, Tailwind CSS, TypeScript, Html , CSS , Javascript<br>Learning: Certified Cloud Applied Generative AI Engineer (GIAIC), Web & Mobile App Development (SMIT)<br>I'm always keen on learning new technologies and improving my skills. Currently, I'm diving into cloud computing and generative AI to explore how they can revolutionize modern web and mobile applications.<br><br>🔗 Feel free to explore my repositories, and don't hesitate to connect if you're interested in collaborating or sharing ideas!<br><br>
 
