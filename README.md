@@ -55,7 +55,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=sadafshahab12&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
 </div>
+##  
+<h1 align="center">🔥 Top Contributed Repos  </h1>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sadafshahab12&limit=5&theme=tokyonight" alt="Top Repos" />
+</div>
+
 
