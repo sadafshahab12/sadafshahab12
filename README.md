@@ -53,7 +53,7 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=radical" alt="Sadaf Shahab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=gradient" alt="Sadaf Shahab's GitHub Stats" />
 </div>
 
 
