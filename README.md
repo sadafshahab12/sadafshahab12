@@ -67,9 +67,8 @@
 </div>
 <div align="center">
   <h3>💡 Random Quote Generator</h3>
-  <blockquote id="quote">Loading...</blockquote>
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Quote" />
 </div>
+
   
  
