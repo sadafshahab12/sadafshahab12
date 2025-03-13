@@ -13,12 +13,11 @@
   </a>
   
 </div>
-<div>
+<div  align="center">
   <img src="https://komarev.com/ghpvc/?username=sadafshahab12&style=flat-square&color=blue" alt="views"/>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+  Assalam-o-Alaikum
 </h1>
 
 # 💫 About Me:
