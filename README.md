@@ -58,6 +58,11 @@
 </div>
 ##  
 <h1 align="center">🔥 Top Contributed Repos  </h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a>
+</div>
+
 
 
