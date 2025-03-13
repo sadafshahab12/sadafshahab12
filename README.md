@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 # 💫 About Me:
 I'm a passionate Front-end Developer with a strong foundation in Next.js, React.js, and Tailwind CSS. With a background in Bachelor of Commerce and a deep interest in technology, I combine my analytical mindset with creativity to build intuitive and dynamic web applications.<br><br>🔧 Tech Stack & Skills:<br><br>Frontend: Next.js, React.js, Tailwind CSS, TypeScript, Html , CSS , Javascript<br>Learning: Certified Cloud Applied Generative AI Engineer (GIAIC), Web & Mobile App Development (SMIT)<br>I'm always keen on learning new technologies and improving my skills. Currently, I'm diving into cloud computing and generative AI to explore how they can revolutionize modern web and mobile applications.<br><br>🔗 Feel free to explore my repositories, and don't hesitate to connect if you're interested in collaborating or sharing ideas!<br><br>
