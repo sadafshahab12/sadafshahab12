@@ -68,15 +68,8 @@
 <div align="center">
   <h3>💡 Random Quote Generator</h3>
   <blockquote id="quote">Loading...</blockquote>
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 </div>
   
-  <script>
-    async function fetchQuote() {
-      const response = await fetch("https://api.quotable.io/random");
-      const data = await response.json();
-      document.getElementById("quote").innerText = `"${data.content}" — ${data.author}`;
-    }
-    fetchQuote();
-  </script>
-
+ 
