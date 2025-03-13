@@ -68,6 +68,8 @@
 <div align="center">
   <h3>💡 Random Quote Generator</h3>
   <blockquote id="quote">Loading...</blockquote>
+
+</div>
   
   <script>
     async function fetchQuote() {
@@ -77,5 +79,4 @@
     }
     fetchQuote();
   </script>
-</div>
 
