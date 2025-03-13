@@ -51,9 +51,12 @@
 
 <h1 align="center">📊 GitHub Stats </h1>
 
-<div align="center" display = "flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadafshahab12&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=sadafshahab12&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafshahab12" alt="Top Languages" />
+  </a>
+</div>
+
 
 </div>
 ##  
