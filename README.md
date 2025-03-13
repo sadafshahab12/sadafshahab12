@@ -53,9 +53,7 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafshahab12&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sadafshahab12" alt="GitHub Streak" /></a>
 </div>
 
 <h1 align="center">🔥 Top Contributed Repos</h1>
