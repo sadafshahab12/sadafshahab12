@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
+<h1 align="center">👋 Assalam-o-Alaikum</h1>
+<h2 align="center">Frontend Developer | React.js | Next.js | Tailwind CSS</h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sadaf-shahab-ssr123">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,20 +12,12 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadafshahab12&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
-<h1 align="center">👋 Assalam-o-Alaikum</h1>
 
 <div align="center">
   <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306575.jpg" width="600" height="400"/>
 </div>
 
 <h1 align="center">🚀 About Me</h1>
-
-<h2 align="center">Frontend Developer | React.js | Next.js | Tailwind CSS</h2>
-
 <p align="center">
   Creative and detail-oriented <strong>Frontend Developer</strong> skilled in 
   <strong>React.js, Next.js, and Tailwind CSS</strong>. <br>
