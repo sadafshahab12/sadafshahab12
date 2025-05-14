@@ -13,9 +13,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306575.jpg" width="600" height="400"/>
-</div>
 
 <h1 align="center">🚀 About Me</h1>
 <p align="center">
