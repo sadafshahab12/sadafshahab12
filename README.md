@@ -1,6 +1,10 @@
 <h1 align="center">👋 Assalam-o-Alaikum</h1>
 <h2 align="center">Frontend Developer | React.js | Next.js | Tailwind CSS</h2>
-<a align="center" href="https://my-portfolio-ten-phi-77.vercel.app/" target="_blank">My Portfolio</a>
+<div align="center">
+<a href="https://my-portfolio-ten-phi-77.vercel.app/" target="_blank">My Portfolio</a>
+</div>
+
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sadaf-shahab-ssr123">
