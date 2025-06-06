@@ -1,5 +1,5 @@
 <h1 align="center">👋 Assalam-o-Alaikum</h1>
-<h2 align="center">Frontend Developer | React.js | Next.js | Tailwind CSS</h2>
+<h2 align="center">MERN Stack Developer</h2>
 <div align="center">
 <a href="https://my-portfolio-ten-phi-77.vercel.app/" target="_blank">My Portfolio</a>
 </div>
