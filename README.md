@@ -22,7 +22,7 @@
 <br />
 
 <h1 align="center">🚀 About Me</h1>
-<p align="center">
+<p align="justify">
   I’m a passionate <strong>MERN Stack Developer</strong> and <strong>TypeScript Enthusiast</strong> who loves building clean, scalable, and high-performance web applications using <strong>React.js, Next.js, Node.js, MongoDB, and Tailwind CSS</strong>.<br />
   I enjoy blending <strong>design (Figma)</strong> with <strong>functionality</strong> to craft seamless user experiences. <br />
   Trained through prestigious platforms like <strong>Governor House IT Program</strong>, <strong>Saylani IT Training</strong>, and <strong>Internship Pakistan</strong>.<br /><br />
