@@ -1,5 +1,5 @@
 <h1 align="center">👋 Assalam-o-Alaikum, I'm Sadaf Shahab!</h1>
-<h2 align="center">💻 MERN Stack & TypeScript Developer | Digital Creator | AI Explorer</h2>
+<h2 align="center">💻 MERN Stack Developer & TypeScript Developer | Digital Creator | AI Explorer</h2>
 
 <div align="center">
   <a href="https://my-portfolio-ten-phi-77.vercel.app/" target="_blank"><strong>🌐 Visit My Portfolio</strong></a>
