@@ -25,7 +25,8 @@
 <p align="justify">
 I’m a passionate <strong>MERN Stack Developer</strong> and <strong>TypeScript Enthusiast</strong> who builds scalable, clean, and high-performance applications using <strong>React.js, Next.js, Node.js, MongoDB, and Tailwind CSS</strong>.<br/>
 I love transforming <strong>Figma designs</strong> into real-world responsive websites and contributing to open-source projects.<br/><br/>
-Currently enrolled in advanced training programs like <strong>MERN Stack Development</strong>, <strong>Digital Marketing</strong>, and <strong>Artificial Intelligence (Governor’s Initiative)</strong>. <br/>
+I have successfully completed <strong>MERN Stack Development Program</strong> from Saylani Mass IT Training Center.<br/>
+Currently, I’m also enrolled in advanced training programs like <strong>Digital Marketing</strong> and <strong>Artificial Intelligence (Governor’s Initiative)</strong>.<br/>
 I am also a <strong>Digital Book Creator on Gumroad</strong> and a <strong>Content Writer</strong>. 📚✨
 </p>
 
@@ -48,7 +49,7 @@ I am also a <strong>Digital Book Creator on Gumroad</strong> and a <strong>Conte
 
 - 🎓 Associate Degree in Commerce (ADC) — University of Karachi | **A Grade (70%)**  
 - 🎓 Intermediate in Commerce — BIEK | **A Grade (75.36%)**  
-- 🎓 MERN Stack Development Program — Saylani Mass IT Training (May 2024 – July 2025)  
+- 🎓 MERN Stack Development Program — Saylani Mass IT Training (**Completed: May 2024 – July 2025**)  
 - 🎓 Digital Marketing — *In Progress*  
 - 🎓 Diploma in Artificial Intelligence — Governor’s Initiative for AI (*In Progress*)  
 
@@ -71,6 +72,7 @@ I am also a <strong>Digital Book Creator on Gumroad</strong> and a <strong>Conte
 <h1 align="center">🏆 Certifications & Achievements</h1>
 
 - ✅ Front-End Development Internship — Internship Pakistan (2025)  
+- ✅ MERN Stack Development Program — Saylani Mass IT Training (2025)  
 - 🥇 Web Hunt Competition — FAST NUCES Procom ’25 | Score: 120  
 - 🥈 FemHack Competition — Saylani Mass IT Training Center (2025) | Score: 70  
 
@@ -99,5 +101,3 @@ I am also a <strong>Digital Book Creator on Gumroad</strong> and a <strong>Conte
 - 📱 WhatsApp: **+92 340 2195735**  
 - 📧 Email: **sadafshahab07@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sadafshahab07) | [GitHub](https://github.com/sadafshahab12) | [Portfolio](https://sadaf-shahab-mern-stack-developer-p.vercel.app/)  
-
----
