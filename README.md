@@ -92,18 +92,4 @@ I build **responsive**, **SEO-friendly**, and **high-performance web apps** with
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sadafshahab07) | [GitHub](https://github.com/sadafshahab12) | [Portfolio](https://sadaf-shahab-mern-stack-developer-p.vercel.app/)
 
----
 
-### 🌐 SEO Tags for Portfolio HTML `<head>`
-
-```html
-<meta name="title" content="Sadaf Shahab — Full Stack Developer | MERN Stack | React.js | Next.js | Node.js">
-<meta name="description" content="Full Stack Developer specializing in MERN Stack (MongoDB, Express.js, React.js, Node.js), TypeScript, and Tailwind CSS. Building responsive, SEO-optimized web apps.">
-<meta name="keywords" content="MERN Stack Developer, Full Stack Developer, React.js Developer, Next.js Developer, JavaScript Developer, Node.js Developer, MongoDB, Web Developer Pakistan, SEO Friendly Websites, Freelance Developer, Remote Developer">
-<meta name="author" content="Sadaf Shahab">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Sadaf Shahab — Full Stack Developer">
-<meta property="og:description" content="MERN Stack Developer specializing in React.js, Next.js, Node.js, TypeScript, and Tailwind CSS.">
-<meta property="og:image" content="https://sadaf-shahab-mern-stack-developer-p.vercel.app/preview.png">
-<meta property="og:url" content="https://sadaf-shahab-mern-stack-developer-p.vercel.app/">
-<meta name="twitter:card" content="summary_large_image">
