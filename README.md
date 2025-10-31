@@ -1,5 +1,5 @@
 <h1 align="center">👋 Assalam-o-Alaikum, I'm Sadaf Shahab!</h1>
-<h2 align="center">💻 MERN Stack Developer | Digital Content Writer</h2>
+<h2 align="center">💻 Full Stack Developer | Digital Marketer</h2>
 
 <div align="center">
   <a href="https://sadaf-shahab-mern-stack-developer-p.vercel.app/" target="_blank"><strong>🌐 Visit My Portfolio</strong></a>
