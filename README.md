@@ -1,11 +1,10 @@
 # 👋 Assalam-o-Alaikum, I'm **Sadaf Shahab**  
 ### 💻 Full Stack Web Developer | MERN Stack | React.js | Next.js | Digital Marketer  
 
-🌐 **[Visit My Portfolio](https://sadaf-shahab-mern-stack-developer-p.vercel.app/)**  
+🌐 **[Visit My Portfolio](https://sadafdeveloper.vercel.app/)**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadafshahab07)
-[![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sadafshahab12)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sadafshahab12)
+[![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sadafshahab97)
 
 ---
 
